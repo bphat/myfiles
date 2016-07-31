@@ -1,0 +1,359 @@
+﻿#EXTINF:-1 group-title="VIET HAI NGOAI",[COLOR lime][B]**KENT VIET HAI NGOAI**[/B][/COLOR] 
+#EXTM3U
+
+#EXTINF:-1 group-title="VIET HAI NGOAI",LITLE SAIGON
+http://origin.onworldtv.com:1935/liveorigin/sgn/playlist.m3u8
+
+#EXTINF:-1 group-title="VIET HAI NGOAI",VIET MY
+http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
+
+#EXTINF:-1 group-title="VIET HAI NGOAI",VIET SONG TV 47.7 L1
+http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8
+
+#EXTINF:-1 group-title="VIET HAI NGOAI",VIET SONG TV 47.7 L2
+http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="VIET HAI NGOAI",VBS TV
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
+
+#EXTINF:-1 group-title="VIET HAI NGOAI",SGN TV 55.3
+http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/chunklist_w1192763577_b350000.m3u8
+
+#EXTINF:-1 group-title="VIET HAI NGOAI",VIET BAY TV
+http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/playlist.m3u8
+
+#EXTINF:-1 group-title="VIET HAI NGOAI",VIET GLOBAL MAIL
+http://64.71.129.2:8080/hls/ius_000131.m3u8
+
+#EXTINF:-1 group-title="VIET HAI NGOAI",VIETFACE TV 57.2
+http://69.75.17.10:1935/vf572caliisai/myStream/chunklist_w120531420.m3u8
+
+#EXTINF:-1 group-title="VIET HAI NGOAI",SET TV
+http://69.75.17.10:1935/vietset574tvv/myStream/chunklist_w942070894.m3u8
+
+#EXTINF:-1 group-title="VIET HAI NGOAI",SCHANNEL 54.4
+http://origin1-edge2.yourstreamlive.com:1935/live/yourstreamlive/out_956_2kr6rvfu/playlist.m3u8
+
+#EXTINF:-1 group-title="VIET HAI NGOAI",VIET CHRISTIAN
+mms://live.vietchristian.com/tv
+
+
+#EXTINF:-1 group-title="TRONG NUOC",[COLOR lime][B]**KêNH TRONG NUOC**[/B][/COLOR] 
+#EXTM3U
+
+#EXTINF:-1 group-title="TRONG NUOC", VTV1 L1
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="TRONG NUOC", VTV1 L2
+http://123.30.185.126/hls/vtv1.m3u8
+#EXTINF:-1 group-title="TRONG NUOC", VTV1 L3
+http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TRONG NUOC", VTV2 L1
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv2.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="TRONG NUOC", VTV2 L2
+http://live.cdn.mobifonetv.vn/motv3/vtv2hd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="TRONG NUOC", VTV2 L3
+http://123.30.185.126/hls/vtv2.m3u8
+
+#EXTINF:-1 group-title="TRONG NUOC", VTV3 L1
+http://123.30.185.126/hls/vtv3.m3u8
+#EXTINF:-1 group-title="TRONG NUOC", VTV3 L2
+http://27.67.50.6:18080/155.m3u8?AdaptiveType=HLS
+
+#EXTINF:-1 group-title="TRONG NUOC", VTV4 L1
+http://live.cdn.mobifonetv.vn/motv/vtv4_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="TRONG NUOC", VTV4 L2
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv4.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="TRONG NUOC", VTV6 L1
+http://live.cdn.mobifonetv.vn/motv/vtv6hd_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TRONG NUOC", VTV6 L2
+http://27.67.50.6:18080/156.m3u8?AdaptiveType=HLS
+
+#EXTINF:-1 group-title="TRONG NUOC", VTV8
+http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist_w1600645438.m3u8
+
+#EXTINF:-1 group-title="TRONG NUOC", VTV9
+http://live.cdn.mobifonetv.vn/motv/vtv9_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TRONG NUOC", THUAN VIET HD
+http://27.67.50.6:18080/160.m3u8?AdaptiveType=HLS
+
+#EXTINF:-1 group-title="TRONG NUOC", HANOI CAB MOVIES LINK 1
+http://xmiolive.e14538a7.viettel-cdn.vn/mov.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="TRONG NUOC", HANOI CAB MOVIES LINK 2
+http://xmiolive.e14538a7.viettel-cdn.vn/mov_p3.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRONG NUOC", VTC ITV HD
+http://xmiolive.e14538a7.viettel-cdn.vn/itvhd.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="TRONG NUOC", HTV1
+http://xmiolive.e14538a7.viettel-cdn.vn/htv1.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="TRONG NUOC", HTV2
+http://live.tvmienphi.biz/stream-tvmienphi-biz-moi-1412-fpt/htv2/playlist.m3u8
+#EXTINF:-1 group-title="TRONG NUOC", HTV3
+http://xmiolive.e14538a7.viettel-cdn.vn/htv3.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="TRONG NUOC", HTV7
+http://xmiolive.e14538a7.viettel-cdn.vn/htv7.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="TRONG NUOC", HTV7 HD
+http://27.67.50.6:18080/157.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="TRONG NUOC", HTV9
+http://11e6.vp9.tv/chn/htv7/v.m3u8
+#EXTINF:-1 group-title="TRONG NUOC", HTV9 HD
+http://27.67.50.6:18080/158.m3u8?AdaptiveType=HLS
+
+#EXTINF:-1 group-title="TRONG NUOC", GIAI TRI TV
+http://live.cdn.mobifonetv.vn/motv3/giaitritv_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="TRONG NUOC", VAN HOA
+http://live.cdn.mobifonetv.vn/motv3/vanhoa_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="TRONG NUOC", E CHANNEL
+http://live.cdn.mobifonetv.vn/motv3/echannel_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="TRONG NUOC", HAY TV
+http://live.cdn.mobifonetv.vn/motv3/haytv_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 group-title="QUOC TE",[COLOR lime][B]**KENH QUOC TE**[/B][/COLOR] 
+#EXTM3U
+
+#EXTINF:-1 group-title="QUOC TE", DISNEY CHANNEL HD
+http://27.67.50.6:18080/170.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE", DISNEY UK
+http://globalstream.noip.us:8000/live/martins/martins/738.m3u8
+#EXTINF:-1 group-title="QUOC TE", CARTOON NETWORK HD
+http://27.67.50.6:18080/167.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE", DISNEY CHANNEL
+http://27.67.50.6:18080/73.m3u8?AdaptiveType=HLS
+
+#EXTINF:-1 group-title="QUOC TE", OUTDOOR CHANNEL HD
+http://27.67.50.6:18080/146.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE", DISCOVERY
+http://27.67.50.6:18080/67.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE", NATIONAL GEOGRAPHIC
+http://27.67.50.6:18080/62.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE", NATIONAL GEOGRAPHIC HD
+http://27.67.50.6:18080/153.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE", DISCOVERY WORLD
+http://27.67.50.6:18080/168.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE", ANIMAL PLANET
+http://27.67.50.6:18080/68.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE", ASIAN FOOD CHANNEL
+http://27.67.50.6:18080/63.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE", ARIRANG
+http://27.67.50.6:18080/70.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="QUOC TE", NHK WORLD
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+
+#EXTINF:-1 group-title="NHAC PHIM NUOC NGOAI",[COLOR lime][B]**NHAC PHIM NUOC NGOAI**[/B][/COLOR] 
+#EXTM3U
+
+#EXTINF:-1 group-title="NHAC PHIM NUOC NGOAI", CINEMA WORLD
+http://27.67.50.6:18080/174.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="NHAC PHIM NUOC NGOAI", CINEMAX
+http://27.67.50.6:18080/163.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="NHAC PHIM NUOC NGOAI", HBO HD
+http://27.67.50.74:18080/162_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="NHAC PHIM NUOC NGOAI", STAR MOVIES HD
+http://27.67.50.6:18080/144.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="NHAC PHIM NUOC NGOAI", STAR WORLD HD
+http://27.67.50.6:18080/142.m3u8?AdaptiveType=HLS
+
+#EXTINF:-1 group-title="NHAC PHIM NUOC NGOAI", VEVO HITS
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 group-title="NHAC PHIM NUOC NGOAI", VEVO FLOW (RAP & R&B)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 group-title="NHAC PHIM NUOC NGOAI", VEVO NASHVILLE (COUNTRY)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 group-title="NHAC PHIM NUOC NGOAI", MTV Hits SD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+
+#EXTINF:-1 group-title="NHAC PHIM NUOC NGOAI", MTV Dance HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+
+#EXTINF:-1 group-title="NHAC PHIM NUOC NGOAI", MTV Rocks HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+
+#EXTINF:-1 group-title="NHAC PHIM NUOC NGOAI", Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1 group-title="NHAC PHIM NUOC NGOAI", Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1 group-title="NHAC PHIM NUOC NGOAI", Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1 group-title="NHAC PHIM NUOC NGOAI", Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:-1 group-title="KENH THE THAO",[COLOR lime][B]**KENH THE THAO**[/B][/COLOR] 
+#EXTM3U
+
+#EXTINF:-1 group-title="KENH THE THAO", UK_MOTORS_TV
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1711.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_EUROSPORT_1_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1050.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_EUROSPORT_2_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1113.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_SKY_SPORT_F1
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1039.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_SKY_SPORTS_NEWS_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1112.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_SKY_SPORTS_1_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1044.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_SKY_SPORTS_2_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1043.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_SKY_SPORTS_3_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1042.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_SKY_SPORTS_4_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1041.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_SKY_SPORTS_5_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1040.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_SKY_SPORT_2_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1097.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_SKY_SPORT_3_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1096.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_SKY_SPORT_4_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1094.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_SKY_SPORT_5_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1093.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_SPORT_TIME_1_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/3944.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_SPORT_TIME_3_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/3945.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_SPORT_KLUB_1
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/3946.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_SPORT_KLUB_3
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/3947.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_BT_SPORT_1
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1118.ts
+#EXTINF:-1 group-title="KENH THE THAO", UK_BT_SPORT_2
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1117.ts
+
+#EXTINF:0 group-title="KENH THE THAO", BT Sport 1 HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/279.ts
+#EXTINF:0 group-title="KENH THE THAO", BT Sport 2 HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/280.ts
+#EXTINF:0 group-title="KENH THE THAO", BT Sport // ESPN
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/1257.ts
+#EXTINF:0 group-title="KENH THE THAO", BT Sport EuroHD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/1215.ts
+#EXTINF:0 group-title="KENH THE THAO", Sky Sports 1 HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/273.ts
+#EXTINF:0 group-title="KENH THE THAO", Sky Sports 2 HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/274.ts
+#EXTINF:0 group-title="KENH THE THAO", Sky Sports 3 HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/275.ts
+#EXTINF:0 group-title="KENH THE THAO", Sky Sports 4 HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/276.ts
+#EXTINF:0 group-title="KENH THE THAO", Sky Sports 5 HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/277.ts
+#EXTINF:0 group-title="KENH THE THAO", Sky Sports F1 HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/278.ts
+#EXTINF:0 group-title="KENH THE THAO", Box Nation
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/1711.ts
+#EXTINF:0 group-title="KENH THE THAO", Setanta Ireland
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/281.ts
+#EXTINF:0 group-title="KENH THE THAO", Racing UK
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/1259.ts
+#EXTINF:0 group-title="KENH THE THAO", MOTORS TV UK
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/1258.ts
+
+#EXTINF:-1 group-title="SKY CHANNELS",[COLOR lime][B]**SKY CHANNELS**[/B][/COLOR] 
+#EXTM3U
+
+#EXTINF:-1 group-title="SKY CHANNELS", UK_SKY_ONE
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1095.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_SKY_DRAMA_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1055.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_SKY_ART_1
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1075.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_SKY_MOVIES_DISNEY
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1056.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_SKY_MOVIES_SELECT_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1114.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_SKY_MOVIES_PREMIERE_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1054.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_SKY_MOVIES_MODERN_GREAT
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1045.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_SKY_MOVIES_COMEDY_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1038.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_SKY_MOVIES_ACTION_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1035.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_SKY_MOVIES_ATLANTIC_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1115.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_SKY_MOVIES_SHOWCASE
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1062.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_SKY_MOVIES_THRILLER
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1061.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_SKY_MOVIES_SCI_FI
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1105.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_MOVIES_FAMILY
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1064.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_MOVIES_4_MEN
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1107.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_FILM_4
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1714.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_CTH_STADIUM_1
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1087.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_CTH_STADIUM_2_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1086.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_CTH_STADIUM_3_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1069.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_CTH_STADIUM_4_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1070.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_CTH_STADIUM_5
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1085.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_CTH_STADIUM_6
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1100.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_RTE_1_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1710.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_RTE_2_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1709.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_CBS_DRAMA
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1108.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_CBS_REALITY
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1715.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_CBS_ACTION
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1716.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_MTV_HITS
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1083.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_MTV_MUSIC
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1084.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_MTV_ROCKS
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1077.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_NICK_JUNIOR
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1101.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_DISNEY_XD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1090.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_DISNEY_JUNIOR
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1088.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_DISNEY_CHANNEL
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1111.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_DISCOVERY_ID
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1089.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_DISCOVERY
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1046.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_DISCOVERY_SCIENCE
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1103.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_DISCOVERY_TURBO
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1058.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_DISCOVERY_INVESTIGATION
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1037.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_DISCOVERY_HOME_HEALTH
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1063.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_DISCOVERY_HISTORY
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1076.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_HISTORY
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1071.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_ANIMAL_PLANET
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1082.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_NATIONAL_GEOGRAPHY_WILD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1102.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_COMEDY_CENTRAL
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1065.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_CARTOON_NETWORK
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1092.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_BOXNATION_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1717.ts
+#EXTINF:-1 group-title="SKY CHANNELS", UK_ESPN_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1059.ts
+
